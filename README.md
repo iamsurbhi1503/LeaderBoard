@@ -1,4 +1,4 @@
-# LeaderBoardP
+# LeaderBoard-https://iamsurbhi1503.github.io/LeaderBoard/
 This is a simple player score tracker application implemented in JavaScript. It allows users to add players, track their scores, and perform actions like increasing, decreasing, and removing players.
 
 #Features
